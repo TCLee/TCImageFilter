@@ -21,8 +21,7 @@ Some of the Core Image filters shown are:
 ## Runtime Requirements
 * iOS 5.0 or later
 
-<div style="border-top: 1px solid #888; margin-top: 1em;">
-<p style="color:#888">
-    Copyright (C) 2012 Lee Tze Cheun. All rights reserved.
-</p>
-</div>
+## Libraries
+* MBProgressHUD (https://github.com/jdg/MBProgressHUD)
+
+#### Copyright (C) 2012 Lee Tze Cheun. All rights reserved.
