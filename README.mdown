@@ -24,4 +24,4 @@ Some of the Core Image filters shown are:
 ## Libraries
 * MBProgressHUD (https://github.com/jdg/MBProgressHUD)
 
-#### Copyright (C) 2012 Lee Tze Cheun. All rights reserved.
+*Copyright (C) 2012 Lee Tze Cheun. All rights reserved.*
