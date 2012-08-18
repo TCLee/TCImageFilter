@@ -1,0 +1,28 @@
+#Core Image Filters
+
+<img src="https://raw.github.com/TCLee/TCImageFilter/master/Screenshot.jpg" alt="Screenshot" style="margin-top:1em;" />
+
+## Description
+This sample demonstrates how to apply various Core Image filters to a still image. 
+Core Image is a high-level image processing framework introduced in iOS 5.
+
+Some of the Core Image filters shown are:
+
+* Color Adjustment filters - *Exposure, Hue, Brightness, Contrast, etc...*
+* Color Effect filters - *Sepia Tone, Color Monochrome, Vignette*
+* Stylize Effect filters - *Highlight and Shadow Adjust*
+* Geometry Adjustment filters - *Crop, Straighten, Affine Transform*
+* Composite Operation filters - *Overlay, Multiply, Lighten, Darken blend modes, etc...*
+
+## Build Requirements
+* Xcode 4.4 or later
+* iOS 5.0 SDK or later
+
+## Runtime Requirements
+* iOS 5.0 or later
+
+<div style="border-top: 1px solid #888; margin-top: 1em;">
+<p style="color:#888">
+    Copyright (C) 2012 Lee Tze Cheun. All rights reserved.
+</p>
+</div>
